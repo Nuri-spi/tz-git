@@ -1,14 +1,17 @@
 
 .container {
-    width: 1220px;
-    margin: 0 auto;
+    width: 1240px;
+    margin: auto;
+}
+
+.header {
     background-color: #313131;
     color: white;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: auto;
     padding: 0px 70px 0px 70px;
+
 }
 
 .btn {
@@ -27,7 +30,8 @@
 
 .logo {
     line-height: 10px;
-    span{
+
+    span {
         color: #D10000;
     }
 }
