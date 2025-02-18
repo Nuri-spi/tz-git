@@ -1,0 +1,77 @@
+.foot{
+    background-color:rgba(49, 49, 49, 1) ;
+    padding: 20px;
+    width: 1500px;
+    display: flex;
+}
+
+.text1{
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    margin-left: 250px;
+    position: relative;
+    bottom: 30px;
+    h4{
+        position: relative;
+        top: 10px;
+        left: 10px;
+    }
+    img{
+        width: 20px;
+    }
+}
+
+.text2{
+    margin-left: 50px;
+    color: rgba(255, 255, 255, 1);
+    position: relative;
+    bottom: 30px;
+
+    h4{
+        position: relative;
+        top: -14px;
+        left: 0px;
+        margin-left: 40px;
+    }
+    img{
+        position: relative;
+        top: 35px;
+        width: 20px;
+    }
+}
+
+.logo1{
+    position: relative;
+    bottom: 30px;
+    position: relative;
+    left: 100px;
+    margin-left: 100px;
+    img{
+        position: relative;
+        left: 100px;
+        margin-left: 100px;
+    }
+}
+
+.bt2{
+    background-color: rgba(209, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+    position: relative;
+    left: 1100px;
+    bottom: 110px;
+    padding: 10px;
+ }
+
+.p2{
+   position: relative;
+    left: 220px;
+    bottom: 120px;
+    color: rgba(255, 255, 255, 1);
+    h2{
+        font-size: 10px;
+    }
+
+    p{
+        font-size: 10px;
+    }
+}
