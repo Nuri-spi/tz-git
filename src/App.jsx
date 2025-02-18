@@ -6,7 +6,7 @@ import Header from './components/header/Header'
 
 const App = () => {
   return (
-    <div>
+    <div >
       <Header />
       <ConnectNotification />
     </div>
