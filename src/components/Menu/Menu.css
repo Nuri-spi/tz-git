@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+}
+.menu {
+    width: 400px;
+    height: 319px;
+    margin: 0 auto;
+    position: relative;
+}
+#nas {
+    position: relative;
+    width: 300px;
+}
+#fil {
+    position: relative;
+    background-color: rgba(209, 0, 0, 1);
+    width: 226px;
+    height: 100px;
+    left: 14px;
+    border-radius: 3px;
+}
+.meni {
+    position: relative;
+    bottom: 200px;
+    left: 400px;
+    display: flex;
+    background-color: rgba(255, 255, 255, 1);
+    width: 704px;
+    height: 148px;
+    border-radius: 26px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.lada {
+    position: relative;
+    left: 30px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20.8px;
+}
+#probg {
+    position: relative;
+    right: 70px;
+    top: 50px;
+}
+.href {
+    position: relative;
+    right: 180px;
+    top: 120px;
+    width: 190px;
+}
+#sait {
+    position: relative;
+    right: 50px;
+    width: 130px;
+}
+#min {
+    position: relative;
+}
+.men {
+    position: relative;
+    bottom: 190px;
+    left: 400px;
+    display: flex;
+    background-color: rgba(255, 255, 255, 1);
+    width: 704px;
+    height: 148px;
+    border-radius: 26px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.menik {
+    position: relative;
+    bottom: 180px;
+    left: 400px;
+    display: flex;
+    background-color: rgba(255, 255, 255, 1);
+    width: 704px;
+    height: 148px;
+    border-radius: 26px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#lupa {
+    position: relative;
+    bottom: 20px;
+    right: 100px;
+}
