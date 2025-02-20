@@ -2,6 +2,9 @@ import ConnectNotification from './components/connect-notification/ConnectNotifi
 import Header from './components/header/Header'
 import Footer from "./components/footer/Footer.jsx";
 import CarAd from "./components/CarAd/CarAd.jsx";
+import Region from './components/region/Region'
+import Menu from "./components/Menu/Menu.jsx";
+
 
 const App = () => {
     return (
@@ -9,10 +12,13 @@ const App = () => {
             <Header/>
             <ConnectNotification/>
             <CarAd/>
+            <Region/>
+            <Menu/>
             <Footer/>
 
         </div>
     )
+
 }
 
 export default App
