@@ -1,0 +1,137 @@
+.container {
+    margin: 0 auto;
+
+}
+
+.old-parent {
+    display: flex;
+
+
+}
+
+.parent {
+    /* border: solid 1px #46454540; */
+    width: 604px;
+    height: 466px;
+    background: white;
+    /* padding: 10px 20px; */
+    /* padding-right: 20px; */
+    border-radius: 15px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1),
+        -4px -4px 10px rgba(255, 255, 255, 0.8);
+    /* display: inline-block; */
+    /* text-align: center; */
+    background: #FFFFFF;
+    /* display: flex; */
+    /* align-items: center; */
+    border-radius: 27px;
+
+    .one {
+        width: 603px;
+        background: white;
+        /* padding: 10px 20px; */
+        border-radius: 15px;
+        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1),
+            -4px -4px 10px rgba(255, 255, 255, 0.8);
+        /* display: inline-block; */
+        height: 80px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        border-radius: 27px;
+
+        .reg {
+            margin-left: 40px;
+        }
+
+        .poisk {
+            margin-right: 165px;
+            /* display: flex; */
+        }
+
+        .iks {
+            margin-right: 35px;
+        }
+    }
+}
+
+.twoo {
+    margin-left: 40px;
+    margin-top: 21px;
+    display: flex;
+    gap: 33px;
+
+    h3 {
+        font-size: 16px;
+        font-family: "Exo" serif;
+        margin-bottom: 4px;
+    }
+
+    img {
+        margin-bottom: 12px;
+    }
+
+
+}
+
+
+.best-btn {
+    width: 314px;
+    height: 46px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background: #D10000;
+    margin-left: -65px;
+    margin-top: 20px;
+}
+
+.child {
+    display: flex;
+    gap: 14px;
+
+    button {
+        width: 116px;
+        height: 30px;
+        background: #FFFFFF;
+        color: #CFCFCF;
+        border-radius: 5px;
+        border: 0.5px solid #CFCFCF;
+        margin-bottom: 16px;
+    }
+
+}
+
+.sele {
+    display: flex;
+    gap: 14px;
+
+    select {
+        width: 116px;
+        height: 30px;
+
+    }
+}
+
+.texts {
+    margin-left: 32px;
+    margin-top: 75px;
+
+    h2 {
+        font-size: 48px;
+        width: 580px;
+        margin-bottom: 33px;
+    }
+
+    h4 {
+        font-size: 32px;
+        width: 610px;
+        margin-bottom: 16px;
+        color: #313131;
+    }
+
+    h3 {
+        font-size: 40px;
+        /* width: 558px; */
+    }
+}

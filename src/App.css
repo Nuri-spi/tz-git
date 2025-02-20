@@ -1,18 +1,1 @@
 
-
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  border: 0;
-}
-.kutman {
-  position: relative;
-  background-color: red;
-  width: 119px;
-  height: 319px;
-  left: 340px;
-  border-radius: 31px;
-
-}
