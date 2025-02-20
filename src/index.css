@@ -25,3 +25,39 @@ select {
     margin-bottom: 12px;
     text-size-adjust: 14px;
 }
+.container {
+    width: 1240px;
+    margin: auto;
+}
+
+.header {
+    background-color: #313131;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 70px 0px 70px;
+
+}
+
+.btn {
+    border: none;
+    border-radius: 7px;
+    color: white;
+    background-color: #D10000;
+    width: 150px;
+    height: 35px;
+}
+
+.text {
+    display: flex;
+    gap: 3pc;
+}
+
+.logo {
+    line-height: 10px;
+
+    span {
+        color: #D10000;
+    }
+}
